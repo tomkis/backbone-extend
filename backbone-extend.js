@@ -1,7 +1,6 @@
 var _ = require('lodash');
 
 var Base = function() {};
-Base.extend = extend;
 
 // Helper function to correctly set up the prototype chain, for subclasses.
 // Similar to `goog.inherits`, but uses a hash of prototype properties and
@@ -39,4 +38,5 @@ var extend = function(protoProps, staticProps) {
   return child;
 };
 
+Base.extend = extend;
 module.exports = Base;
