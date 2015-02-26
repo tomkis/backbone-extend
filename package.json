@@ -1,0 +1,14 @@
+{
+  "name": "backbone-extend",
+  "version": "0.1.0",
+  "description": "Backbone's extend",
+  "main": "backbone-extend.js",
+  "author": "Tomas Weiss <tomas.weiss2@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomkis1/backbone-extend.git"
+  },
+  "dependencies": {
+    "lodash": ">=3.0.0"
+  }
+}
