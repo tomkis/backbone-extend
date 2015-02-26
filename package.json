@@ -1,5 +1,5 @@
 {
-  "name": "backbone-extend",
+  "name": "backbone-extend-node",
   "version": "0.1.0",
   "description": "Backbone's extend",
   "main": "backbone-extend.js",
